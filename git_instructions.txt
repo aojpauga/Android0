@@ -1,0 +1,5 @@
+1. Enable
+2. Commit
+3. VCS - Git - Remotes - https://github.com/dsu-cit-cs3010/s19-geoquiz-aojpauga.git
+4. VCS - Git - Push
+git status
